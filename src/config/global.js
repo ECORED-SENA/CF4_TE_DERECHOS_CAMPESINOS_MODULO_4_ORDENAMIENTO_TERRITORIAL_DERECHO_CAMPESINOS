@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Sostenibilidad ambiental',
     Description:
-      'En este componente se abordará aspectos propiciando conocimientos a partir de la sostenibilidad ambiental, los contextos normativos de la política ambiental, el impacto ambiental, la estructura del impacto ambiental,  medidas correctivas y restauradoras de acuerdo a la naturaleza y su actividad y lo referente a las licencias ambientales.',
+      'En este componente se abordarán aspectos propiciando conocimientos a partir de la sostenibilidad ambiental, los contextos normativos de la política ambiental, el impacto ambiental, la estructura del impacto ambiental,  medidas correctivas y restauradoras de acuerdo a la naturaleza y su actividad y lo referente a las licencias ambientales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -522,11 +522,6 @@ export default {
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
-        },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',

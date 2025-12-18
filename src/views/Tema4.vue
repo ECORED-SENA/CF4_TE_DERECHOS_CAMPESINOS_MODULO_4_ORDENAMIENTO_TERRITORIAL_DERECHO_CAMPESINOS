@@ -219,12 +219,12 @@
                   .col-8
                     img(src='@/assets/curso/temas/img49.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Matrices de interacción 
-                p.mb-0 Cruzan actividades del proyecto con componentes ambientales para identificar relaciones causa - efecto.
+                p.mb-0 Cruzan actividades del proyecto con componentes ambientales para identificar relaciones causa-efecto.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/temas/img50.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Diagramas causa - efecto
+                h4.mb-3.estilo-text Diagramas causa-efecto
                 p.mb-0 Representan gráficamente la relación entre una acción y sus consecuencias ambientales.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3

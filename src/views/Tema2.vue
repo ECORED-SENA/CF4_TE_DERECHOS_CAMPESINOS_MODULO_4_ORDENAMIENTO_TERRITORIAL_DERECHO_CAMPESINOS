@@ -166,8 +166,8 @@
                     td.ajuste-border-tabla.texto-left Se concreta en leyes, decretos, tratados y normas técnicas.
                     td.texto-left Se materializa en planes, programas, instrumentos e instituciones.
                   tr.ajuste-color-tabla
-                    td.ajuste-border-tabla.texto-left <strong>Ejemplo</strong>: Ley 99 de 1993, Acuerdo de París.
-                    td.texto-left <strong>Ejemplo</strong>: Planes nacionales de desarrollo sostenible, licenciamiento ambiental, incentivos verdes.
+                    td.ajuste-border-tabla.texto-left <strong>Ejemplo</strong>: ley 99 de 1993, Acuerdo de París.
+                    td.texto-left <strong>Ejemplo</strong>: planes nacionales de desarrollo sostenible, licenciamiento ambiental, incentivos verdes.
 
 </template>
 
