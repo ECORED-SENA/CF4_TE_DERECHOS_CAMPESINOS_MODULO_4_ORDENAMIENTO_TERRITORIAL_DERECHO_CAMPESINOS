@@ -68,9 +68,9 @@
         LineaTiempoD.color-secundario
           p.mb-3(numero="1991" titulo="Constitución Política de Colombia (1991)")
             <ul class="fa-ul estilo___ul_2 mb-0">
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 79</strong>: Reconoce el derecho de todas las personas a gozar de un ambiente sano.</li>
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 80</strong>: Obliga al Estado a planificar el manejo de los recursos naturales y a exigir estudios de impacto ambiental.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 334</strong>: Establece la función interventora del Estado en asuntos económicos y ambientales.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 79</strong>: reconoce el derecho de todas las personas a gozar de un ambiente sano.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 80</strong>: obliga al Estado a planificar el manejo de los recursos naturales y a exigir estudios de impacto ambiental.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span><strong>Artículo 334</strong>: establece la función interventora del Estado en asuntos económicos y ambientales.</li>
             </ul>
           p.mb-3(numero="2015" titulo="Decreto 1076 de 2015") Compila y organiza toda la reglamentación del sector ambiental en un solo cuerpo normativo. Facilita la aplicación y comprensión de las normas ambientales vigentes. Incluye:
             <ul class="fa-ul estilo___ul_2 mb-0 mt-3">

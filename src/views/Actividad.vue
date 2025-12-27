@@ -308,7 +308,7 @@ export default {
           texto:
             '¿Cuál de las siguientes opciones NO es una función de la política ambiental?',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -318,7 +318,7 @@ export default {
             {
               id: 'b',
               texto: 'Establecer impuestos a las exportaciones.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'c',
